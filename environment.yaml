@@ -1,0 +1,7 @@
+name: django
+dependencies:
+  - python>=3.5
+  - pip
+  - pip:
+    # works for regular pip packages
+    - Django
